@@ -11,15 +11,15 @@
 ![jquery][JQUERY]
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HigorZicaDev/img/home.png" alt="Image Example" width="400px">
+    <img src="https://raw.githubusercontent.com/HigorZicaDev/mtp-acai/main/img/home.png" alt="Image Example" width="400px">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HigorZicaDev/img/sobre.png" alt="Image Example" width="400px">
+    <img src="https://raw.githubusercontent.com/HigorZicaDev/mtp-acai/main/img/sobre.png" alt="Image Example" width="400px">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HigorZicaDev/img/menu.png" alt="Image Example" width="400px">
+    <img src="https://raw.githubusercontent.com/HigorZicaDev/mtp-acai/main/img/menu.png" alt="Image Example" width="400px">
 </p>
 
 <h2 id="started">📌 About</h2>
